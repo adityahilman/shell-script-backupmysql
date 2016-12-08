@@ -1,1 +1,1 @@
-Shell Script for backup mysql and upload to S3 bucket
+Bash shell script for backup mysql per table and automatic upload to S3 bucket
